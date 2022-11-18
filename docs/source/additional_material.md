@@ -1,4 +1,4 @@
-# Additional Material
+# Additional Materials
 There are some cool tutorials and guides on using OpenLane to harden chips. Though do note, guides, especially video tutorials and webinars, tend to become out of date.
 
 Additionally, we're also going to link to academic publications about OpenLane if you're interested in reading and/or citing it.
